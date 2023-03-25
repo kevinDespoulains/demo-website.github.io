@@ -4,24 +4,25 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
-"main.dart.js": "d7fbd91aeff7a2fad39f4d12d0328bfa",
+"main.dart.js": "2edd8e7d2bb0aa6620c6688011aee569",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"favicon.png": "0103c52f460817411e0de0dce226ef26",
 "version.json": "1e98a4f7390d2e9d9ad60c99fb0aff05",
 "manifest.json": "c81f25a8d1362ede544c1913a9c96ac1",
-"assets/AssetManifest.json": "99914b932bd37a50b983c5e7c90ae93b",
+"assets/AssetManifest.json": "2868a7d94edb6b0cf894f32a972b7454",
+"assets/assets/images/steampunk/website.png": "b8bd286b7520d7aaac14d95668c48034",
+"assets/assets/images/steampunk/projects.png": "8f3b8b1f56514bab8a7b072cfeda2f6e",
+"assets/assets/images/steampunk/about_me.png": "59a5d09ea56c627e3ade8f1813543d35",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
-"assets/NOTICES": "fc0e87b23e9b3387979677fd1f976d85",
-"index.html": "5dc1e62b2ddaba7b4e1ec40300304757",
-"/": "5dc1e62b2ddaba7b4e1ec40300304757",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c"
+"assets/NOTICES": "f053b5ab029c216ac9ba3fd6100ff3c5",
+"index.html": "db6580e749c71e5ae92f1874a0e4e607",
+"/": "db6580e749c71e5ae92f1874a0e4e607",
+"icons/Icon-512.png": "4fb490e50ac9d684c46c25b8161dc817",
+"icons/Icon-192.png": "2e26c6733f5855b7709cd8f70e2a98ea"
 };
 
 // The application shell files that are downloaded before a service worker can
